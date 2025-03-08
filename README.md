@@ -1,3 +1,10 @@
+![Languages](https://img.shields.io/github/languages/top/c4nix/unit-converter)
+
+![License](https://img.shields.io/github/license/c4nix/unit-converter)
+
+![Views](https://komarev.com/ghpvc/?username=c4nix&repo=unit-converter)
+
+
 🛠️ Unit Converter
 A simple Command-Line Interface (CLI) program written in Python to convert temperature, length, and weight between different units. This project helps you practice functions, loops, error handling, and user input in Python.
 
