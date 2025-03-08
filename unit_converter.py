@@ -70,8 +70,6 @@ def weight_calculator():
         print(str(weight_ounce) + " Ounce" + " = " + str(ounce_to_kilogram) + " Kilogram" + " = " + str(ounce_to_gram) + " Gram" + " = " + str(ounce_to_pound) + " Pound")
 
 #################################### Main Program ####################################################
-print("Welcome to the Unit Converter!\nList of inputs : \n1. Temperature Conversion\n2. Length Conversion\n3. Weight Conversion\n4. Exit")
-
 while True:
     try:
         print("Welcome to the Unit Converter!\nList of inputs : \n1. Temperature Conversion\n2. Length Conversion\n3. Weight Conversion\n4. Exit")
