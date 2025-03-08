@@ -1,8 +1,8 @@
-![Languages](https://img.shields.io/github/languages/top/c4nix/unit-converter)
 
-![License](https://img.shields.io/github/license/c4nix/unit-converter)
 
-![Views](https://komarev.com/ghpvc/?username=c4nix&repo=unit-converter)
+![Languages](https://img.shields.io/github/languages/top/C4nix/unit_converter)
+
+![License](https://img.shields.io/github/license/C4nix/unit_converter)
 
 
 🛠️ Unit Converter
