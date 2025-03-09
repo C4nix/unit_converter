@@ -99,7 +99,7 @@ Using try-except blocks for error handling.
 
 📜 License
 
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the MIT License.
 
 For more details, see the LICENSE file.
 
