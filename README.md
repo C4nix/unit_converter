@@ -2,7 +2,7 @@
 
 ![Languages](https://img.shields.io/github/languages/top/C4nix/unit_converter)
 
-![License](https://img.shields.io/github/license/C4nix/unit_converter)
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
 
 🛠️ Unit Converter
